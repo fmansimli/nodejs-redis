@@ -4,10 +4,10 @@
 
 **SADD** - for adding to a Set
 **SREM** - for removing an element from Set
-**SPOP** -
-**SMOVE** -
+**SPOP** - unknown
+**SMOVE** - unknown
 
-**SRANDMEMBER** -
+**SRANDMEMBER** - unknown
 **SCARD** - for counting a Set
 
 **SMEMBERS** - for getting elements of a Set
